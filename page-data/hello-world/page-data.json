@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/hello-world/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"মুফতি মুহাম্মাদ রিজওয়ানুর রাহমান (হাফিযাহুল্লাহ) এর তাফসীর সমূহ "}},"markdownRemark":{"id":"8a8420ea-53fb-51ce-9feb-838d685e8457","excerpt":"ইসলাহি বয়ান","html":"<p>ইসলাহি বয়ান</p>","frontmatter":{"title":"অডিও 1","date":null,"description":null}},"previous":null,"next":{"fields":{"slug":"/my-second-post/"},"frontmatter":{"title":"অডিও 1"}}},"pageContext":{"id":"8a8420ea-53fb-51ce-9feb-838d685e8457","previousPostId":null,"nextPostId":"75d03be7-9d27-5641-b13e-531ebc0ae7b7"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
