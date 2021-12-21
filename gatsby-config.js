@@ -1,4 +1,6 @@
 module.exports = {
+  
+  pathPrefix: "/mufti-redwan",
   siteMetadata: {
     title: `মুফতি মুহাম্মাদ রিজওয়ানুর রাহমান (হাফিযাহুল্লাহ) এর তাফসীর সমূহ `,
     author: {
